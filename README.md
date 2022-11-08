@@ -1,4 +1,4 @@
-## Oiii eu sou a Érica, criadora de programação e web designer!
+## Oiii eu sou a Érica, desenvolvedora de programação e web designer!
 <div align="center">
   <a href="https://github.com/japolina">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=japolina&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
