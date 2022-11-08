@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
-
-## Oiii eu sou a Érica, desenvolvedora de programação e web designer!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=4682B4&width=435&lines=Oi%2C+meu+nome+%C3%A9+%C3%89rica+Garcez+%3D);Estudante+de+Web+designer+e+Programa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 <div align="center">
   <a href="https://github.com/japolina">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=japolina&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
