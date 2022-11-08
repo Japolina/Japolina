@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
 ## Oiii eu sou a Érica, desenvolvedora de programação e web designer!
 <div align="center">
   <a href="https://github.com/japolina">
