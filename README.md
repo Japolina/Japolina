@@ -9,7 +9,7 @@
   <img align="center" alt="Japolina-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Japolina-PHOTO" height="30" width="100" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" alt="Japolina-ILLUS" height="30" width="100" src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img align="right" alt="Japolina-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/4746f24c800df39acf36db5e58092d93/daa79a7eda13c930-a5/s1280x1920/4a14519899b5247cfaf935e2f9a4b3b816705ce7.gifv"> 
+  <img align="right" alt="Japolina-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/4746f24c800df39acf36db5e58092d93/daa79a7eda13c930-a5/s540x810/3766a3d4a9826504aa753b6db40d4f9f38286ec0.gifv"> 
 </div>
   
   ##
