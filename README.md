@@ -9,7 +9,7 @@
   <img align="center" alt="Japolina-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Japolina-PHOTO" height="30" width="100" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" alt="Japolina-ILLUS" height="30" width="100" src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="Japolina-pic" height="150" style="border-radius:50px;" 
 </div>
   
   ##
