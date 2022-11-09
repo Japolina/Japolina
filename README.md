@@ -11,18 +11,22 @@
  <li><h5> Cursando Técnico em Informática </h5></li>
  <li><h5> Com expêriencia em Photoshop, Illustrator, e Web site/designer </h5></li>
 </ul><br><hr>
+
+##
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Japolina&show_icons=true&count_private=true&hide_border=true&title_color=90EE90&icon_color=90EE90&text_color=c9d1d9&bg_color=0d1117" alt="Japolina github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japolina&layout=compact&hide_border=true&title_color=90EE90&text_color=90EE90&bg_color=0d1117" />
 </div><br>
 
 ##
+
 <div align="center">
 <h2 >📚Learning</h2>
  <img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF8C00">
  <img align="center" alt="CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
  <img align="center" alt="CSS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="right" alt="Japolina-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/4746f24c800df39acf36db5e58092d93/daa79a7eda13c930-a5/s540x810/3766a3d4a9826504aa753b6db40d4f9f38286ec0.gifv"> 
+  <img align="right" alt="Japolina-pic" height="150" style="border-radius:50px;" src="https://img1.picmix.com/output/stamp/normal/7/1/2/0/1560217_adbd3.gif"> 
 </div>
   
   ##
