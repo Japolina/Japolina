@@ -8,8 +8,8 @@
 
 <ul>
  <li><h5> Começando no mundo da Programação </h5></li>
- <li><h5> Cursando Técnico em Informática </h5></li>
- <li><h5> Com expêriencia em Photoshop, Illustrator, e Web site/designer </h5></li>
+ <li><h5> Formada em Técnico em Informática </h5></li>
+ <li><h5> Com expêriencia em PHP, Laravel, Photoshop, e Web site/designer </h5></li>
 </ul><br><hr>
 
 ##
