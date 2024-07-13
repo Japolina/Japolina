@@ -31,7 +31,7 @@
   
   ##
  
-  ![Snake animation](https://github.com/Japolina/Japolina/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Japolina/Japolina/blob/output/github-contribution-grid-snake.svg)
   
   ##
   
