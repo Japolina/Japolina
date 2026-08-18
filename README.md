@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=header"/>
 <div align="center">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=74E461&width=435&lines=%C3%89rica+Garcez+Designer+Gr%C3%A1fico;E+Desenvolvedora+de+Sistemas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7EE46D&width=435&lines=%C3%89rica+Garcez+Designer+Gr%C3%A1fico;E+Desenvolvedora+de+Sistemas" alt="Typing SVG" /></a>
 </div><br><br>
 
 ## 
